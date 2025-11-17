@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Yassir_logo.png" alt="Yassir Logo" width="180"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Logo_Yassir_2023.png" alt="Yassir Logo" width="180"/>
 </p>
 
 <h1 align="center">🧠 Yassir AI Market Challenge — Team Recommender System</h1>
